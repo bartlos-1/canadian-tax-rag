@@ -1,0 +1,35 @@
+[project]
+name = "taxrag"
+version = "0.1.0"
+description = "Retrieval-augmented research assistant for Canadian federal personal income tax"
+requires-python = ">=3.11"
+dependencies = [
+  "requests>=2.31",
+  "pyyaml>=6.0",
+  "lxml>=5.0",
+  "beautifulsoup4>=4.12",
+  "pypdf>=4.0",
+  "pydantic>=2.6",
+  "python-dotenv>=1.0",
+  "anthropic>=0.40",
+  "psycopg[binary]>=3.1",
+  "pgvector>=0.3",
+  "fastapi>=0.110",
+  "uvicorn>=0.29",
+]
+
+[project.optional-dependencies]
+# Local embeddings / reranker (large download, PyTorch). Optional.
+local-models = ["sentence-transformers>=3.0"]
+ui = ["streamlit>=1.35"]
+dev = ["pytest>=8.0", "ruff>=0.4", "ipykernel>=6.29"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100

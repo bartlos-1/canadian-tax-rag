@@ -1,0 +1,85 @@
+# Source manifest for the corpus. `scripts/download_sources.py` reads this file.
+# Each guide lists candidate URLs, newest tax year first. The first one that
+# returns a real file wins (CRA sometimes moves a guide to HTML-only).
+#
+# Scope v1: federal personal income tax (T1) for individuals.
+
+tax_year: 2025
+
+legislation:
+  - id: ita
+    title: Income Tax Act (R.S.C., 1985, c. 1 (5th Supp.))
+    url: https://laws-lois.justice.gc.ca/eng/XML/I-3.3.xml
+    out: legislation/ita.xml
+  - id: itr
+    title: Income Tax Regulations (C.R.C., c. 945)
+    url: https://laws-lois.justice.gc.ca/eng/XML/C.R.C.,_c._945.xml
+    out: legislation/itr.xml
+
+guides:
+  - id: 5000-g
+    title: Federal Income Tax and Benefit Guide (line-by-line T1)
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pbg/5000-g/5000-g-25e.pdf
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/5000-g/5000-g-25e.pdf
+  - id: 5000-r
+    title: Income Tax and Benefit Return (T1 form itself)
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pbg/5000-r/5000-r-25e.pdf
+  # 5000-s1 (Schedule 1) is omitted: no stable PDF URL, and 5000-G explains it.
+  - id: p105
+    title: Students and Income Tax
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/p105/p105-25e.pdf
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/p105/p105-24e.pdf
+  - id: t4040
+    title: RRSPs and Other Registered Plans for Retirement
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4040/t4040-25e.pdf
+  - id: t4044
+    title: Employment Expenses
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4044/t4044-25e.pdf
+  - id: t4037
+    title: Capital Gains
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4037/t4037-25e.pdf
+  - id: t4055
+    title: Newcomers to Canada
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4055/t4055-25e.pdf
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4055/t4055-24e.pdf
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4055/t4055-23e.pdf  # latest PDF edition found (Nov 2026)
+  - id: rc4064
+    title: Disability-Related Information
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/rc4064/rc4064-25e.pdf
+  # Stretch scope: self-employment and rental income
+  - id: t4002
+    title: Self-employed Business, Professional, Commission, Farming, and Fishing Income
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4002/t4002-25e.pdf
+  - id: t4036
+    title: Rental Income
+    urls:
+      - https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4036/t4036-25e.pdf
+
+# HTML reference pages. These are the seed data for data/structured/indexed_amounts.csv
+# (brackets, limits). Store those numbers in a table instead of retrieving them with RAG.
+reference_pages:
+  - id: tax-rates
+    title: Canadian income tax rates for individuals - current and previous years
+    url: https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html
+  - id: indexation
+    title: Adjustment of personal income tax and benefit amounts
+    url: https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/adjustment-personal-income-tax-benefit-amounts.html
+  - id: plan-limits
+    title: MP, DB, RRSP, DPSP, ALDA, TFSA limits, YMPE and YAMPE
+    url: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html
+  # RC4466 TFSA guide is omitted: no stable URL as of Nov 2026. Covered by folio S3-F10 + plan-limits.
+
+# CRA Income Tax Folios: crawled from the index page, then each folio page's chapters.
+folios:
+  index_url: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index.html
+  # Keep the series that matter for individuals. 4=businesses, 6=trusts, 7=charities are out of v1 scope.
+  include_series: [1, 2, 3, 5]

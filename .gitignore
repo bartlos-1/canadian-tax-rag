@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.egg-info/
+.env
+.DS_Store
+.ipynb_checkpoints/
+# Regenerable: run scripts/download_sources.py (manifest.json is committed for provenance)
+data/raw/**
+!data/raw/manifest.json
+data/processed/
+.ruff_cache/
+
+# Personal learning guides / plans (not published)
+Guide/
+NOTES.md

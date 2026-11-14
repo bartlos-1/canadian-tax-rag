@@ -1,0 +1,476 @@
+{
+  "folios/series-1/income-tax-folio-s1-f1-c1-medical-expense-tax-credit.html": {
+    "bytes": 184752,
+    "last_modified": "Fri, 13 Nov 2026 22:45:01 GMT",
+    "retrieved_at": "2026-11-14T01:42:12+00:00",
+    "series": 1,
+    "sha256": "4f8575dca358e7e0c318bb99620bb8775c2d3d1dc64ec67ee41972041629c70b",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-1-health-medical/income-tax-folio-s1-f1-c1-medical-expense-tax-credit.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f1-c2-disability-tax-credit.html": {
+    "bytes": 91441,
+    "last_modified": "Fri, 13 Nov 2026 22:18:31 GMT",
+    "retrieved_at": "2026-11-14T01:42:12+00:00",
+    "series": 1,
+    "sha256": "42139b312ba18e49865627ac335c15f7c14ee7953ec8ff8d9f7bb35b8a28a436",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-1-health-medical/income-tax-folio-s1-f1-c2-disability-tax-credit.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f1-c3-disability-supports-deduction.html": {
+    "bytes": 52749,
+    "last_modified": "Sat, 14 Nov 2026 00:15:28 GMT",
+    "retrieved_at": "2026-11-14T01:42:13+00:00",
+    "series": 1,
+    "sha256": "11b86bfabdf7503b58901361ff0830fd74c43673fdd1317f211a2f22adcd4503",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-1-health-medical/income-tax-folio-s1-f1-c3-disability-supports-deduction.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f2-c1-education-textbook-tax-credits.html": {
+    "bytes": 83306,
+    "last_modified": "Fri, 13 Nov 2026 22:41:02 GMT",
+    "retrieved_at": "2026-11-14T01:42:14+00:00",
+    "series": 1,
+    "sha256": "8bf0c55ed8fda5652f6b36a6b85602c7461a43853cbd0c634f41fc03b9736b96",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c1-education-textbook-tax-credits.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f2-c2-tuition-tax-credit.html": {
+    "bytes": 135103,
+    "last_modified": "Sat, 14 Nov 2026 01:19:48 GMT",
+    "retrieved_at": "2026-11-14T01:42:15+00:00",
+    "series": 1,
+    "sha256": "fc31bac37912d66b84933c2416cce851ddaef0c3b85727ec7a46cc1a9ca3d29a",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c2-tuition-tax-credit.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f2-c3-scholarships-research-grants-other-education-assistance.html": {
+    "bytes": 146726,
+    "last_modified": "Fri, 13 Nov 2026 22:50:37 GMT",
+    "retrieved_at": "2026-11-14T01:42:15+00:00",
+    "series": 1,
+    "sha256": "0145ff156def1c22f79ab233355d86653086fde680ebf21384517e12870ce370",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c3-scholarships-research-grants-other-education-assistance.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f3-c1-child-care-expense-deduction.html": {
+    "bytes": 97250,
+    "last_modified": "Sat, 14 Nov 2026 00:23:55 GMT",
+    "retrieved_at": "2026-11-14T01:42:16+00:00",
+    "series": 1,
+    "sha256": "f7addb6dc9730c9701f02a25072f473e6bf7b16800250547e6c0739286d7df0b",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c1-child-care-expense-deduction.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f3-c2-principal-residence.html": {
+    "bytes": 202045,
+    "last_modified": "Fri, 13 Nov 2026 23:35:56 GMT",
+    "retrieved_at": "2026-11-14T01:42:17+00:00",
+    "series": 1,
+    "sha256": "3c9ac36472e46a5e3d00e01e1b6aff4df8a2eb686074149d889f2aad4f7a1705",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c2-principal-residence.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f3-c3-support-payments.html": {
+    "bytes": 115791,
+    "last_modified": "Fri, 13 Nov 2026 22:52:40 GMT",
+    "retrieved_at": "2026-11-14T01:42:18+00:00",
+    "series": 1,
+    "sha256": "f9918c6a43aee44ec21f1ae6b0edafc36e08ea5f744631350e67a97dba34e458",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c3-support-payments.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f3-c4-moving-expenses.html": {
+    "bytes": 61887,
+    "last_modified": "Fri, 13 Nov 2026 23:12:02 GMT",
+    "retrieved_at": "2026-11-14T01:42:18+00:00",
+    "series": 1,
+    "sha256": "c7c0151620ceb7f128376ef494a2ec38a93b375cb40c44477bc85952da3ecea4",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-3-family-unit-issues/income-tax-folio-s1-f3-c4-moving-expenses.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f4-c1-basic-personal-dependant-tax-credits.html": {
+    "bytes": 114639,
+    "last_modified": "Sat, 14 Nov 2026 01:42:20 GMT",
+    "retrieved_at": "2026-11-14T01:42:20+00:00",
+    "series": 1,
+    "sha256": "b57a19ca3523634dcae413bdba6e018deb9a33982fa8bb292654b2f8ee870711",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/series-1-individuals-1/income-tax-folio-s1-f4-c1-basic-personal-dependant-tax-credits.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f4-c2-basic-personal-dependant-tax-credits.html": {
+    "bytes": 114266,
+    "last_modified": "Fri, 13 Nov 2026 23:46:08 GMT",
+    "retrieved_at": "2026-11-14T01:42:21+00:00",
+    "series": 1,
+    "sha256": "dc47bf6b5c4914a2e0437c7ff97011c22d4b08e436e7f5d99c1ae65b9dd053ec",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/series-1-individuals-1/income-tax-folio-s1-f4-c2-basic-personal-dependant-tax-credits.html"
+  },
+  "folios/series-1/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html": {
+    "bytes": 82612,
+    "last_modified": "Fri, 13 Nov 2026 22:08:43 GMT",
+    "retrieved_at": "2026-11-14T01:42:19+00:00",
+    "series": 1,
+    "sha256": "ac2b34bc5894e41e752d5be6b02a8cb531ef0c7f2a4588a7e104ea80cbfe6bfa",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html"
+  },
+  "folios/series-2/income-tax-folio-s2-f1-c1-health-welfare-trusts.html": {
+    "bytes": 73001,
+    "last_modified": "Sat, 14 Nov 2026 00:51:17 GMT",
+    "retrieved_at": "2026-11-14T01:42:23+00:00",
+    "series": 2,
+    "sha256": "65581d8f647b03ef043128d3f3ee18f2edeb6281be17a69e336889d809de00b0",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c1-health-welfare-trusts.html"
+  },
+  "folios/series-2/income-tax-folio-s2-f1-c2-retiring-allowances.html": {
+    "bytes": 62798,
+    "last_modified": "Fri, 13 Nov 2026 22:03:55 GMT",
+    "retrieved_at": "2026-11-14T01:42:23+00:00",
+    "series": 2,
+    "sha256": "b5909d4e1a37afeeac9a3e8352f51e4087ae6ec2b5de3c383a8830440af51b02",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c2-retiring-allowances.html"
+  },
+  "folios/series-2/income-tax-folio-s2-f1-c3-pension-benefits.html": {
+    "bytes": 86421,
+    "last_modified": "Fri, 13 Nov 2026 22:03:27 GMT",
+    "retrieved_at": "2026-11-14T01:42:24+00:00",
+    "series": 2,
+    "sha256": "3595c335dc84f72b911cda6211409ab7dbc3c31381615b84f46ae5502ec9bdf3",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c3-pension-benefits.html"
+  },
+  "folios/series-2/income-tax-folio-s2-f2-c1-employee-professional-membership-other-dues.html": {
+    "bytes": 50562,
+    "last_modified": "Sat, 14 Nov 2026 01:42:21 GMT",
+    "retrieved_at": "2026-11-14T01:42:22+00:00",
+    "series": 2,
+    "sha256": "36c0863cd1c05beb737c724d5e42931a24a69c6785ae56c6aef6045f53375bb2",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/folio-2-employment-expenses/income-tax-folio-s2-f2-c1-employee-professional-membership-other-dues.html"
+  },
+  "folios/series-2/income-tax-folio-s2-f3-c1-payments-employer-employee.html": {
+    "bytes": 41295,
+    "last_modified": "Sat, 14 Nov 2026 01:02:05 GMT",
+    "retrieved_at": "2026-11-14T01:42:25+00:00",
+    "series": 2,
+    "sha256": "a4d3c573b43494e5bb21d27f42a96eace689a7fbc45da284d5e0c29cb3b00053",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-3-employment-benefits/income-tax-folio-s2-f3-c1-payments-employer-employee.html"
+  },
+  "folios/series-2/income-tax-folio-s2-f3-c2-benefits-allowances-received-employment.html": {
+    "bytes": 23303,
+    "last_modified": "Sat, 14 Nov 2026 01:05:01 GMT",
+    "retrieved_at": "2026-11-14T01:42:25+00:00",
+    "series": 2,
+    "sha256": "95a234f1eca36606b44de7522e05cdc30a08f5c294127f4d80f7269034bdd25c",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-3-employment-benefits/income-tax-folio-s2-f3-c2-benefits-allowances-received-employment.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f1-c1-shareholder-loans-debts.html": {
+    "bytes": 133675,
+    "last_modified": "Fri, 13 Nov 2026 21:52:17 GMT",
+    "retrieved_at": "2026-11-14T01:42:26+00:00",
+    "series": 3,
+    "sha256": "170a31f0a3ba363f1188ced56f3bd1e7386642512a40e5ca6680e3e444bb7c62",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/folio-1-shares-shareholders-security-transactions/income-tax-folio-s3-f1-c1-shareholder-loans-debts.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f1-c2-deemed-interest-benefit-shareholder-loans-debts.html": {
+    "bytes": 86239,
+    "last_modified": "Sat, 14 Nov 2026 00:41:05 GMT",
+    "retrieved_at": "2026-11-14T01:42:27+00:00",
+    "series": 3,
+    "sha256": "e19b6bb1db3a36920750c4ad7112d1c0e700cee639a775c4bf5be1f9af319194",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/folio-1-shares-shareholders-security-transactions/income-tax-folio-s3-f1-c2-deemed-interest-benefit-shareholder-loans-debts.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html": {
+    "bytes": 117464,
+    "last_modified": "Sat, 14 Nov 2026 00:31:11 GMT",
+    "retrieved_at": "2026-11-14T01:42:28+00:00",
+    "series": 3,
+    "sha256": "53b32f116e24d7a1a62c52910532c338080f05335da6908390c0b400c4382618",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html": {
+    "bytes": 74217,
+    "last_modified": "Fri, 13 Nov 2026 22:46:44 GMT",
+    "retrieved_at": "2026-11-14T01:42:29+00:00",
+    "series": 3,
+    "sha256": "82aa935e4b3df470fe4a48eaf87c0105628ab308d262b041bafa91c4e5e5948d",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html": {
+    "bytes": 103016,
+    "last_modified": "Fri, 13 Nov 2026 22:46:44 GMT",
+    "retrieved_at": "2026-11-14T01:42:30+00:00",
+    "series": 3,
+    "sha256": "a592939e48720c4327f03f405a57ba69c0d49266433f6e0f0a489535fad3e05b",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f2-c1-capital-dividends.html": {
+    "bytes": 112402,
+    "last_modified": "Sat, 14 Nov 2026 00:20:28 GMT",
+    "retrieved_at": "2026-11-14T01:42:31+00:00",
+    "series": 3,
+    "sha256": "a10569c72c4af3bedd38bc9a46f2b3e7ccdffbf46b49755be0262b90f749536d",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-2-dividends/income-tax-folio-s3-f2-c1-capital-dividends.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f2-c2-taxable-dividends-corporations-resident-canada.html": {
+    "bytes": 177709,
+    "last_modified": "Sat, 14 Nov 2026 01:42:31 GMT",
+    "retrieved_at": "2026-11-14T01:42:32+00:00",
+    "series": 3,
+    "sha256": "ea4a08f1fbd59e605529390e65c537c9513db2ee6f082520bc50b96bf6570947",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-2-dividends/income-tax-folio-s3-f2-c2-taxable-dividends-corporations-resident-canada.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f3-c1-replacement-property.html": {
+    "bytes": 73992,
+    "last_modified": "Fri, 13 Nov 2026 21:43:48 GMT",
+    "retrieved_at": "2026-11-14T01:42:27+00:00",
+    "series": 3,
+    "sha256": "b33253f34f3e222d40cc7974463a32b9e70c6360bf65f86b6735fcc4f372b25b",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/folio-3-capital-transactions/income-tax-folio-s3-f3-c1-replacement-property.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html": {
+    "bytes": 207771,
+    "last_modified": "Fri, 13 Nov 2026 23:44:13 GMT",
+    "retrieved_at": "2026-11-14T01:42:35+00:00",
+    "series": 3,
+    "sha256": "c6d136ead4eec16c3435ac1de94b2cb638f124300e676f3591a70b33a54fba25",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-4-capital-cost-allowance/income-tax-folio-s3-f4-c1-general-discussion-capital-cost-allowance.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f6-c1-interest-deductibility.html": {
+    "bytes": 128985,
+    "last_modified": "Fri, 13 Nov 2026 21:57:08 GMT",
+    "retrieved_at": "2026-11-14T01:42:32+00:00",
+    "series": 3,
+    "sha256": "fd1c79bc0f7304864afe4232c46906034ac7ccc603cc69bcbdee0f3d2e810521",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-6-interest/income-tax-folio-s3-f6-c1-interest-deductibility.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries.html": {
+    "bytes": 58360,
+    "last_modified": "Sat, 14 Nov 2026 01:42:33 GMT",
+    "retrieved_at": "2026-11-14T01:42:33+00:00",
+    "series": 3,
+    "sha256": "8c6e3f5d7e559e814b590a8f7076d99a60ccf8ae600135e2628c04c6df2f818f",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f8-c2-tax-incentives-clean-energy-equipment.html": {
+    "bytes": 94502,
+    "last_modified": "Sat, 14 Nov 2026 01:42:34 GMT",
+    "retrieved_at": "2026-11-14T01:42:34+00:00",
+    "series": 3,
+    "sha256": "aa8410477593bf7b679ed8c52ea45690780618418dda8c568ba25e1420a97987",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c2-tax-incentives-clean-energy-equipment.html"
+  },
+  "folios/series-3/income-tax-folio-s3-f9-c1-lottery-winnings-miscellaneous-receipts-income-losses-crime.html": {
+    "bytes": 71984,
+    "last_modified": "Sat, 14 Nov 2026 00:14:10 GMT",
+    "retrieved_at": "2026-11-14T01:42:36+00:00",
+    "series": 3,
+    "sha256": "3c123ab66cff6b7c17ecef651c25d2c7976498af56ce5042e57a7100d1fdc42c",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plans-folio-9-miscellaneous-payments-receipts/income-tax-folio-s3-f9-c1-lottery-winnings-miscellaneous-receipts-income-losses-crime.html"
+  },
+  "folios/series-5/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html": {
+    "bytes": 85620,
+    "last_modified": "Fri, 13 Nov 2026 23:35:41 GMT",
+    "retrieved_at": "2026-11-14T01:42:36+00:00",
+    "series": 5,
+    "sha256": "c9715d6bdb8de2705448c28f8805cd537b76e947c5cd845e94842d70dad54ada",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html"
+  },
+  "folios/series-5/income-tax-folio-s5-f2-c1-foreign-tax-credit.html": {
+    "bytes": 161483,
+    "last_modified": "Sat, 14 Nov 2026 01:42:37 GMT",
+    "retrieved_at": "2026-11-14T01:42:37+00:00",
+    "series": 5,
+    "sha256": "7091ecc48b7392d26aba7194c10feb46271617b13e7babc62203c980ad512466",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-2-foreign-tax-credits-deductions/income-tax-folio-s5-f2-c1-foreign-tax-credit.html"
+  },
+  "folios/series-5/income-tax-folio-s5-f3-c1-taxation-roth-ira.html": {
+    "bytes": 47550,
+    "last_modified": "Fri, 13 Nov 2026 21:45:21 GMT",
+    "retrieved_at": "2026-11-14T01:42:38+00:00",
+    "series": 5,
+    "sha256": "c01dacce3f52a521d69beddc6a6f654d10fee6984b7bfde981e201a50899eb65",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-3-cross-border-issues/income-tax-folio-s5-f3-c1-taxation-roth-ira.html"
+  },
+  "folios/series-5/income-tax-folio-s5-f4-c1-income-tax-reporting-currency.html": {
+    "bytes": 102124,
+    "last_modified": "Sat, 14 Nov 2026 01:31:36 GMT",
+    "retrieved_at": "2026-11-14T01:42:39+00:00",
+    "series": 5,
+    "sha256": "8c7745c0d4dc93b736680275058c1a2a89818ea54ca71dca847ad3536a7f3121",
+    "source_type": "folio",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/series-5-international-residency-folio-4-foreign-currency/income-tax-folio-s5-f4-c1-income-tax-reporting-currency.html"
+  },
+  "guides/5000-g-25e.pdf": {
+    "bytes": 420974,
+    "id": "5000-g",
+    "last_modified": "Tue, 20 Jan 2026 01:39:17 GMT",
+    "retrieved_at": "2026-11-14T01:41:39+00:00",
+    "sha256": "1f263de22ae9e2c1c1d5749c249cd38a76adf6a9b7b83c24caed14dfb07a316f",
+    "source_type": "guide",
+    "title": "Federal Income Tax and Benefit Guide (line-by-line T1)",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/5000-g/5000-g-25e.pdf"
+  },
+  "guides/5000-r-25e.pdf": {
+    "bytes": 90921,
+    "id": "5000-r",
+    "last_modified": "Tue, 20 Jan 2026 01:39:21 GMT",
+    "retrieved_at": "2026-11-14T01:41:39+00:00",
+    "sha256": "15c0e42a494d59580da868c6e2c25e98d50caa45b5a5fd8b9816a9c7a2d0d0e4",
+    "source_type": "guide",
+    "title": "Income Tax and Benefit Return (T1 form itself)",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pbg/5000-r/5000-r-25e.pdf"
+  },
+  "guides/p105-24e.pdf": {
+    "bytes": 163241,
+    "id": "p105",
+    "last_modified": "Wed, 20 Nov 2024 19:21:19 GMT",
+    "retrieved_at": "2026-11-14T01:41:42+00:00",
+    "sha256": "08647463c1a6fea15b360fa041312fdb33f00335ebfac22dc03cc90be3c93152",
+    "source_type": "guide",
+    "title": "Students and Income Tax",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/p105/p105-24e.pdf"
+  },
+  "guides/rc4064-25e.pdf": {
+    "bytes": 888940,
+    "id": "rc4064",
+    "last_modified": "Tue, 20 Jan 2026 01:39:20 GMT",
+    "retrieved_at": "2026-11-14T01:41:48+00:00",
+    "sha256": "2aad4f4e1b3392f62c3855f81e889f23e32b830dc19516b7601de2e5def22389",
+    "source_type": "guide",
+    "title": "Disability-Related Information",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/rc4064/rc4064-25e.pdf"
+  },
+  "guides/t4002-25e.pdf": {
+    "bytes": 802009,
+    "id": "t4002",
+    "last_modified": "Thu, 16 Apr 2026 17:04:29 GMT",
+    "retrieved_at": "2026-11-14T01:41:48+00:00",
+    "sha256": "8efc96434bfaab1beabe95b48d8cb3c764a6b2292e9865cb9aaeac938673453f",
+    "source_type": "guide",
+    "title": "Self-employed Business, Professional, Commission, Farming, and Fishing Income",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4002/t4002-25e.pdf"
+  },
+  "guides/t4036-25e.pdf": {
+    "bytes": 499394,
+    "id": "t4036",
+    "last_modified": "Fri, 27 Mar 2026 17:58:02 GMT",
+    "retrieved_at": "2026-11-14T01:41:49+00:00",
+    "sha256": "f34bf23a4b97e3fd11f1eb21d27bd5aeff3f1aefac3aa22128c9dd136e6f408c",
+    "source_type": "guide",
+    "title": "Rental Income",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4036/t4036-25e.pdf"
+  },
+  "guides/t4037-25e.pdf": {
+    "bytes": 674468,
+    "id": "t4037",
+    "last_modified": "Wed, 11 Feb 2026 16:18:11 GMT",
+    "retrieved_at": "2026-11-14T01:41:45+00:00",
+    "sha256": "8687687cabce3f26945c8f66581cb1167e1e149eb257d1ae1bb6d0958996139c",
+    "source_type": "guide",
+    "title": "Capital Gains",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4037/t4037-25e.pdf"
+  },
+  "guides/t4040-25e.pdf": {
+    "bytes": 463188,
+    "id": "t4040",
+    "last_modified": "Tue, 17 Mar 2026 14:35:34 GMT",
+    "retrieved_at": "2026-11-14T01:41:43+00:00",
+    "sha256": "6caf31189ecaeb283a0f338f775133631bbf200e18780bd698e8b6fb7d17619f",
+    "source_type": "guide",
+    "title": "RRSPs and Other Registered Plans for Retirement",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4040/t4040-25e.pdf"
+  },
+  "guides/t4044-25e.pdf": {
+    "bytes": 1434739,
+    "id": "t4044",
+    "last_modified": "Fri, 20 Mar 2026 12:51:31 GMT",
+    "retrieved_at": "2026-11-14T01:41:44+00:00",
+    "sha256": "b2d9af2221225548d006df065e0ac2b2319e54c4260defe16aacf0174971c5e2",
+    "source_type": "guide",
+    "title": "Employment Expenses",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4044/t4044-25e.pdf"
+  },
+  "guides/t4055-23e.pdf": {
+    "bytes": 186534,
+    "id": "t4055",
+    "last_modified": "Tue, 23 Jan 2024 05:17:24 GMT",
+    "retrieved_at": "2026-11-14T01:43:53+00:00",
+    "sha256": "2f188cd8f8fc91ba46d77cdf83e41c27f72ae34b978fb362b73f36d1bff6d823",
+    "source_type": "guide",
+    "title": "Newcomers to Canada",
+    "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pub/t4055/t4055-23e.pdf"
+  },
+  "legislation/ita.xml": {
+    "bytes": 14082767,
+    "id": "ita",
+    "last_modified": "Thu, 20 Aug 2026 14:10:06 GMT",
+    "retrieved_at": "2026-11-14T01:41:26+00:00",
+    "sha256": "77aeb72fe5a25070ee9a17cb812be7c0ea6b7950d00519a50965f4e9c17c0e8d",
+    "source_type": "legislation",
+    "title": "Income Tax Act (R.S.C., 1985, c. 1 (5th Supp.))",
+    "url": "https://laws-lois.justice.gc.ca/eng/XML/I-3.3.xml"
+  },
+  "legislation/itr.xml": {
+    "bytes": 5696292,
+    "id": "itr",
+    "last_modified": "Thu, 20 Aug 2026 14:10:12 GMT",
+    "retrieved_at": "2026-11-14T01:41:37+00:00",
+    "sha256": "bead5a75e99eb4f2e87eecce63e1364b28a74328b18263b3a14fe7d407d27815",
+    "source_type": "legislation",
+    "title": "Income Tax Regulations (C.R.C., c. 945)",
+    "url": "https://laws-lois.justice.gc.ca/eng/XML/C.R.C.,_c._945.xml"
+  },
+  "reference/indexation.html": {
+    "bytes": 48693,
+    "id": "indexation",
+    "last_modified": "Fri, 13 Nov 2026 23:23:53 GMT",
+    "retrieved_at": "2026-11-14T01:41:51+00:00",
+    "sha256": "36d2e7b35c0b85572133af006d75a042977d0e6612638b7400fc465f5ba9c3cf",
+    "source_type": "reference",
+    "title": "Adjustment of personal income tax and benefit amounts",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/adjustment-personal-income-tax-benefit-amounts.html"
+  },
+  "reference/plan-limits.html": {
+    "bytes": 28500,
+    "id": "plan-limits",
+    "last_modified": "Fri, 13 Nov 2026 23:23:34 GMT",
+    "retrieved_at": "2026-11-14T01:41:51+00:00",
+    "sha256": "09b3fd72a79655cf4be0e257ffdf0c2c1af88f70679efac0bbe6cea30064ab18",
+    "source_type": "reference",
+    "title": "MP, DB, RRSP, DPSP, ALDA, TFSA limits, YMPE and YAMPE",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html"
+  },
+  "reference/tax-rates.html": {
+    "bytes": 24448,
+    "id": "tax-rates",
+    "last_modified": "Fri, 13 Nov 2026 23:08:58 GMT",
+    "retrieved_at": "2026-11-14T01:41:50+00:00",
+    "sha256": "829275f571e0ad88fd8cd8acda9e7978a2870773d8f6ecb46547cf43b0300762",
+    "source_type": "reference",
+    "title": "Canadian income tax rates for individuals - current and previous years",
+    "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html"
+  }
+}
