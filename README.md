@@ -12,10 +12,10 @@ Year-specific amounts come from a structured table, so the LLM never produces th
 ## Quickstart
 
 ```bash
-cd RAG_proj
-source .venv/bin/activate            # already created; otherwise: python3 -m venv .venv && pip install -e ".[dev]"
+git clone https://github.com/bartlos-1/canadian-tax-rag.git && cd canadian-tax-rag
+python3 -m venv .venv && source .venv/bin/activate && pip install -e ".[dev]"
 cp .env.example .env                 # add your ANTHROPIC_API_KEY
-python scripts/download_sources.py   # already run; safe to re-run, skips files you have
+python scripts/download_sources.py   # safe to re-run; skips files you already have
 python -m taxrag.ingest.parse_legislation data/raw/legislation/ita.xml data/processed/ita_units.jsonl --act ITA
 python -m taxrag.ingest.parse_legislation data/raw/legislation/itr.xml data/processed/itr_units.jsonl --act ITR
 docker compose up -d                 # Postgres 16 + pgvector; applies db/schema.sql on first start
